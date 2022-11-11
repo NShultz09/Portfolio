@@ -5,3 +5,8 @@ body{
 .font-primary{
     color:#00ABAE
 }
+
+.title-icon{
+    font-size:2.5rem;
+    font-weight:bold;
+}
