@@ -10,3 +10,43 @@ body{
     font-size:2.5rem;
     font-weight:bold;
 }
+
+#about{
+    margin:60px auto;
+    margin-top:32px;
+    font-size:.15rem auto;
+    text-align: center;
+    max-width:fit-content;
+}
+#about img{
+    border-radius:50%;
+    width:120px;
+    margin-bottom:10px;
+}
+
+#about .name {
+    font-size: 1rem;
+    font-weight:bold;
+    margin-bottom:3px;
+}
+#about .vocation{
+    font-size: .85rem;
+    opacity:65%;
+    margin-bottom: 5px;
+}
+#about .skillset{
+    font-size: .5rem;
+    color:#00ABAE
+}
+#about .contact1{
+    font-size: .5rem;
+}
+#about .icons{
+    margin-top: 10px;
+}
+#about .bi-github{
+    padding:10px;
+}
+#about .bi-linkedin{
+    padding:10px;
+}
