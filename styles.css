@@ -1,0 +1,113 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.font-primary{
+    color:#00ABAE
+}
+
+.title-icon{
+    font-size:2.5rem;
+    font-weight:bold;
+}
+
+#about {
+    margin:60px auto;
+    margin-top:32px;
+    font-size:.15rem auto;
+    text-align: center;
+    max-width:fit-content;
+}
+#about img{
+    border-radius:50%;
+    width:120px;
+    margin-bottom:10px;
+}
+
+#about h5 {
+    font-size:.65rem;
+    width:80%;
+    margin:auto;
+}
+
+#about .name {
+    font-size: 1rem;
+    font-weight:bold;
+    margin-bottom:3px;
+}
+#about .vocation{
+    font-size: .85rem;
+    opacity:65%;
+    margin-bottom: 5px;
+}
+#about .skillset{
+    font-size: .5rem;
+    color:#00ABAE;
+    margin-bottom:15px;
+}
+#about .contact1{
+    font-size: .5rem;
+}
+#about .icons{
+    margin-top: 10px;
+}
+#about .bi-github{
+    padding:10px;
+}
+#about .bi-linkedin{
+    padding:10px;
+}
+
+.font-black{
+    color:#000 !important
+}
+
+h2{
+    font-weight:bold;
+}
+
+#projects {
+    margin:60px auto;
+    margin-top:32px;
+    font-size:.15rem auto;
+    width:80%;
+    max-width:fit-content
+}
+#projects h2{
+    text-align: center;
+    margin-bottom:32px;
+}
+
+#projects .card img {
+    width:100%;
+}
+
+#projects .btn {
+    text-align:center;
+}
+
+#npweb {
+    background-color:#00ABAE;
+    color:#fff;
+}
+
+#npgit {
+    background-color:#000;
+    color:fff;
+    margin-left:10px;
+}
+
+#tweb {
+    background-color:#00ABAE;
+    color:#fff;
+}
+
+#tgit {
+    background-color:#000;
+    color:fff;
+    margin-left:10px;
+}
+
+.card-title {
+    font-weight:bold;
+}
